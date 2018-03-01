@@ -1,4 +1,6 @@
-public class StringUtilsTest {
+package utils;
+
+public class DigestUtilsTest {
     public static void main(String[] args) {
 
     }

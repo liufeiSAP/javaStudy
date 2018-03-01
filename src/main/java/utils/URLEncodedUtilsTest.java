@@ -1,3 +1,5 @@
+package utils;
+
 import org.apache.http.client.utils.URLEncodedUtils;
 
 public class URLEncodedUtilsTest {
